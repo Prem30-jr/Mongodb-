@@ -1,0 +1,11 @@
+.container{
+    padding: 10px;
+    max-width: 500px;
+    margin: 100px auto;
+    background-color: #ccc;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
